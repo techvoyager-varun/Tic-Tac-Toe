@@ -43,7 +43,7 @@ A simple and responsive Tic-Tac-Toe game built with **HTML**, **CSS**, **JavaScr
  "scripts": {
   "build": "tailwindcss -i ./input.css -o ./output.css --watch",
   "start": "live-server",
-}```
+}```bash
 
 - This example uses live-server, so make sure you have it installed globally:
 
