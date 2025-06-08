@@ -38,15 +38,18 @@ A simple and responsive Tic-Tac-Toe game built with **HTML**, **CSS**, **JavaScr
 `npx tailwindcss -i ./input.css -o ./output.css --watch`
 
  If your package.json has a script like this add these parts:
+ 
  `"scripts": {
   "build": "tailwindcss -i ./input.css -o ./output.css --watch",
   "start": "live-server",
 }`
 
 This example uses live-server, so make sure you have it installed globally:
+
 `npm install -g live-server`
 
 Final live server starting line:
+
 `npm start`
 
 
