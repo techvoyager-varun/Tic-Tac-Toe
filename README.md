@@ -2,8 +2,6 @@
 
 A simple and responsive Tic-Tac-Toe game built with **HTML**, **CSS**, **JavaScript**, and styled using **Tailwind CSS**.
 
-![Screenshot](screenshot.png) <!-- Replace with actual screenshot path -->
-
 ---
 
 ## 🚀 Features
