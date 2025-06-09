@@ -27,7 +27,7 @@ A simple and responsive Tic-Tac-Toe game built with **HTML**, **CSS**, **JavaScr
 
 ### 1. Clone the Repository
 
-- `git clone https://github.com/techvoyager-varun/Tic-Tac-Toe.git`
+- git clone `https://github.com/techvoyager-varun/Tic-Tac-Toe.git`
 
 - `cd Tic-Tac-Toe`
 
@@ -50,6 +50,8 @@ A simple and responsive Tic-Tac-Toe game built with **HTML**, **CSS**, **JavaScr
 
 - Final live server starting line:
 
- `npm start`
+ ``` bash
+ npm start
+```
 
 
