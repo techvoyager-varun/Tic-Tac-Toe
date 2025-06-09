@@ -36,7 +36,12 @@ A simple and responsive Tic-Tac-Toe game built with **HTML**, **CSS**, **JavaScr
   cd Tic-Tac-Toe
   ```
 
--  Run `npm install` to install dependencies.
+-  Run
+   ``` bash
+   npm install
+   ```
+    to install dependencies.
+  
 
 - ``` bash
   npx tailwindcss -i ./input.css -o ./output.css --watch
